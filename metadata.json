@@ -1,0 +1,6 @@
+{
+  "name": "WingWing",
+  "description": "Food delivery storefront, live order tracking, and multi-portal operations app for customers, restaurants, riders, and owners.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
